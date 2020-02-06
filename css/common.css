@@ -1,0 +1,25 @@
+h1 {
+  text-align: center;
+}
+.maket-span {
+}
+.used {
+  font-size: 20px;
+}
+.maket-link {
+  color: chocolate;
+  font-weight: bold;
+}
+.maket-span {
+  font-size: 20px;
+  font-weight: bold;
+}
+a:hover {
+  color: green;
+}
+a:active {
+  color: red;
+}
+a:link {
+  color: blue;
+}
